@@ -1,0 +1,40 @@
+.no-spin::-webkit-inner-spin-button,
+.no-spin::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.no-spin {
+  -moz-appearance: textfield;
+  
+  border: none;
+  box-shadow: none;
+
+
+
+  background: rgba(255,255,255,0.4);
+  border: none;
+  border-radius: 5px;
+  
+  outline: none;
+  width: 400px;
+  height: 40px;
+  
+ 
+ 
+  color: #070000;
+ 
+
+
+  
+}
+
+::-webkit-input-placeholder { color: #666;} 
+:-moz-placeholder { color: #666; }
+::-moz-placeholder { color: #666; }
+:-ms-input-placeholder { color: #666; } 
+
+.inputBox{
+  -webkit-box-shadow: 0 2px 10px 1px rgba(0,0,0,0.5);
+  box-shadow: 0 2px 10px 1px rgba(0,0,0,0.5);
+}

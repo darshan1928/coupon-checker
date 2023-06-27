@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/coupon-checker/static/css/main.864d8bef.css",
+    "main.js": "/coupon-checker/static/js/main.382feee8.js",
+    "index.html": "/coupon-checker/index.html",
+    "main.864d8bef.css.map": "/coupon-checker/static/css/main.864d8bef.css.map",
+    "main.382feee8.js.map": "/coupon-checker/static/js/main.382feee8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.864d8bef.css",
+    "static/js/main.382feee8.js"
+  ]
+}
